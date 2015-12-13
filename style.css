@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+	font-size: 5em;
+}
