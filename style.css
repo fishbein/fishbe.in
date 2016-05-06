@@ -4,10 +4,31 @@
 }
 
 body {
+  padding-top: 10%;
 	text-align: center;
 	font-family: 'Oswald', sans-serif;
 }
 
 h1 {
 	font-size: 5em;
+}
+
+h1 span.last {
+	color: #FF4D03;
+}
+
+h1 span.ip {
+  color: #D3D3D3;
+}
+
+.social ul {
+	list-style: none;
+}
+
+.social li {
+	display: inline-block;
+}
+
+.social img {
+	vertical-align: middle;
 }
